@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{608BCD47-BC6F-4582-A465-F8A45BAAA1B7}"
+	ProjectSection(SolutionItems) = preProject
+		ArcGisTestJava.html = ArcGisTestJava.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336463D7-A680-4AA9-8638-D5A453AFBA82}
+	EndGlobalSection
+EndGlobal
